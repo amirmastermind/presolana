@@ -71,7 +71,7 @@ function RoundSection() {
           src={roundImage}
           alt="game enviroment image"
         />
-        <h2 className={classes.home__round__heading}>$JUDGE</h2>
+        <h2 className={classes.home__round__heading}>$VODKA</h2>
         <h2 className={classes.home__round__heading__2}>Private Sale Round</h2>
         <div className={classes.round__section__sale__wrapper}>
           <img
@@ -90,7 +90,7 @@ schedule - 25% at DEX listing, 75%
               rightText=""
             />
             <p className={classes.sale__info__para}>
-              Claiming of <span className="inline__light__text">$JUDGE</span>{" "}
+              Claiming of <span className="inline__light__text">$VODKA</span>{" "}
               tokens will be available after completion of the public sale and
               liquidity event.
             </p>
