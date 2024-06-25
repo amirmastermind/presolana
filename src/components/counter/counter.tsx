@@ -46,24 +46,24 @@ export default function Counter({ targetDate }: CounterProps): JSX.Element {
       <div className={classes.counter__wrapper}>
         <div className={classes.counter__title__wrapper}>
           <p className={classes.counter__title}>REGISTRATION STARTS IN</p>
-          <p>14 July 2024, 1PM UTC</p>
+          <p>14 JULY 2024, 1PM UTC</p>
         </div>
         <div className={classes.counter__time__wrapper}>
           <div className={classes.counter__digit__wrapper}>
             <p className={classes.counter__data}>{time.days}</p>
-            <p className={classes.counter__text}>Days</p>
+            <p className={classes.counter__text}>DAYS</p>
           </div>
           <div className={classes.counter__digit__wrapper}>
             <p className={classes.counter__data}>{time.hours}</p>
-            <p className={classes.counter__text}>Hours</p>
+            <p className={classes.counter__text}>HOURS</p>
           </div>
           <div className={classes.counter__digit__wrapper}>
             <p className={classes.counter__data}>{time.minutes}</p>
-            <p className={classes.counter__text}>Minutes</p>
+            <p className={classes.counter__text}>MINUTES</p>
           </div>
           <div className={classes.counter__digit__wrapper}>
             <p className={classes.counter__data}>{time.seconds}</p>
-            <p className={classes.counter__text}>Seconds</p>
+            <p className={classes.counter__text}>SECONDS</p>
           </div>
         </div>
       </div>
