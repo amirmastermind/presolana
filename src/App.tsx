@@ -81,7 +81,7 @@ function RoundSection() {
           />
           <div className={classes.round__section__sale__info__wrapper}>
             <SaleInfo leftText="Hardcap" rightText={poolState.hardcap + " SOL"} />
-            <SaleInfo leftText="Fixed Price" rightText="1 SOL= 10,000 $JUDGE" />
+            <SaleInfo leftText="Fixed Price" rightText="1 SOL= 10,000 $VODKA" />
             <SaleInfo leftText="Max Contribution" rightText={poolState.maxsol + " SOL"} />
             <SaleInfo
               leftText="Purchased tokens subject to vesting 
@@ -111,7 +111,7 @@ function CounterSection() {
         alt="coins laying on a table"
       />
       <ProgressCard />
-      <Counter targetDate="2024-04-14T00:00:00" />
+      <Counter targetDate="2024-07-14T00:00:00" />
     </section>
   );
 }
