@@ -13,7 +13,7 @@ export default function Footer(): JSX.Element {
             src={footerLogo}
             alt="footer logo"
           />
-          <p className={classes.footer__logo__title}>Judgement</p>
+          <p className={classes.footer__logo__title}>This Is $VODKA The $Beer Killer!</p>
         </div>
         <a href="/" className={classes.footer__x__logo}>
           <img src={xLogo} alt="x/twitter logo" />
