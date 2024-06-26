@@ -81,7 +81,7 @@ function RoundSection() {
           />
           <div className={classes.round__section__sale__info__wrapper}>
             <SaleInfo leftText="Hardcap" rightText={poolState.hardcap + " SOL"} />
-            <SaleInfo leftText="Fixed Price" rightText="1 SOL= 10,000 $VODKA" />
+            <SaleInfo leftText="Fixed Price" rightText="1 SOL= 250,000 $VODKA" />
             <SaleInfo leftText="Max Contribution" rightText={poolState.maxsol + " SOL"} />
             <SaleInfo
               leftText="Purchased tokens subject to vesting 
