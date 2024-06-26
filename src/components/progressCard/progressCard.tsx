@@ -70,7 +70,7 @@ export default function ProgressCard(): JSX.Element {
             handleClick={handleClick}
             className={classes.progress__card__connect__button}
           >
-            DEPOSIT
+            BUY NOW
           </ConnectButton>
           {/* <WalletConnect /> */}
         </div>
