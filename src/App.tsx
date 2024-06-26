@@ -89,7 +89,7 @@ LIQUIDITY GONNA BE BURNED."
               rightText=""
             />
             <p className={classes.sale__info__para}>
-              CLAIMING OF<span className="inline__light__text">$VODKA</span>{" "}
+              CLAIMING OF <span className="inline__light__text">$VODKA</span>{" "}
               TOKENS WILL BE AVAILABLE AFTER COMPLETION OF THE PUBLIC SALE &
               LIQUIDITY EVENT.
             </p>
