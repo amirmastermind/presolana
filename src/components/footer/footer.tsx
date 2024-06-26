@@ -1,7 +1,7 @@
 import classes from "./footer.module.scss";
 
 import footerLogo from "../../assets/footer-logo.png";
-import xLogo from "../../assets/x-logo.svg";
+import xLogo from "../../assets/footer-logo.png";
 
 export default function Footer(): JSX.Element {
   return (
