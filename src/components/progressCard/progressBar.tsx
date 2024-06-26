@@ -13,7 +13,7 @@ export default function ProgressBar() {
     <div className={classes.progress__bar__wrapper}>
       <div className={classes.progress__bar__text__wrapper}>
         <p className={classes.progress__bar__text}>{poolState.raised} / {poolState.hardcap} SOL</p>
-        <p className={classes.progress__bar__text}>Progress {getProgressPercent()}%</p>
+        <p className={classes.progress__bar__text}>PROGRESS {getProgressPercent()}%</p>
       </div>
       <div className={classes.progress__bar__container}>
         <div className={classes.progress__bar}>
