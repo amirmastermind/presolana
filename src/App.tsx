@@ -72,7 +72,7 @@ function RoundSection() {
           alt="game enviroment image"
         />
         <h2 className={classes.home__round__heading}>$VODKA</h2>
-        <h2 className={classes.home__round__heading__2}>Private Sale Round</h2>
+        <h2 className={classes.home__round__heading__2}>PRE-SALE ROUND</h2>
         <div className={classes.round__section__sale__wrapper}>
           <img
             className={classes.round__section__sale__image}
@@ -80,19 +80,19 @@ function RoundSection() {
             alt="game enviroment image"
           />
           <div className={classes.round__section__sale__info__wrapper}>
-            <SaleInfo leftText="Hardcap" rightText={poolState.hardcap + " SOL"} />
-            <SaleInfo leftText="Fixed Price" rightText="1 SOL= 250,000 $VODKA" />
-            <SaleInfo leftText="Max Contribution" rightText={poolState.maxsol + " SOL"} />
+            <SaleInfo leftText="HARDCAP" rightText={poolState.hardcap + " SOL"} />
+            <SaleInfo leftText="FIXED PRICE" rightText="1 SOL= 250.000 $VODKA" />
+            <SaleInfo leftText="MAX CONTRIBUTION" rightText={poolState.maxsol + " SOL"} />
             <SaleInfo
-              leftText="Purchased tokens subject to vesting 
-schedule - 25% at DEX listing, 75% 
-6 month stream."
+              leftText="PURCHASED TOKENS SUBJECT TO VESTING 
+SCHEDULE - 8 HOURS AFTER DEX LISTING, 100% 
+LIQUIDITY GONNA BE BURNED."
               rightText=""
             />
             <p className={classes.sale__info__para}>
-              Claiming of <span className="inline__light__text">$VODKA</span>{" "}
-              tokens will be available after completion of the public sale and
-              liquidity event.
+              CLAIMING OF<span className="inline__light__text">$VODKA</span>{" "}
+              TOKENS WILL BE AVAILABLE AFTER COMPLETION OF THE PUBLIC SALE &
+              LIQUIDITY EVENT.
             </p>
           </div>
         </div>
