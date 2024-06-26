@@ -40,10 +40,7 @@ export default function Navigation() {
             <img src={xLogo} className={classes.nav__x__logo} alt="X link" />
         <div className={classes.nav__links__wrapper}>
           </a>
-        <div className={classes.nav__links__wrapper}>
-          <a href="https://x.com/">
-            <img src={xLogo} className={classes.nav__x__logo} alt="X link" />
-          </a>
+
           {/* {connected == false? 
             <ConnectButton handleClick={handleClick} className={classes.nav__connect__button}>
               CONNECT
