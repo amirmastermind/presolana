@@ -13,11 +13,14 @@ export default function Footer(): JSX.Element {
             src={footerLogo}
             alt="footer logo"
           />
-<div
+
 <center className={classes.footer__description}> Trading Cryptocurrencies is highly speculative, carries a level of risk and may not be suitable for all investors. You may lose some or all of your invested capital, therefore you should not speculate with capital that you cannot afford to lose. The content on this site should not be considered investment advice. Investing is speculative. When investing your capital is at risk.</center>
  
         </div>
 
+
+</div>
+  
     </footer>
   );
 }
