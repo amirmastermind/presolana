@@ -84,8 +84,7 @@ function RoundSection() {
             <SaleInfo leftText="FIXED PRICE" rightText="1 SOL= 250.000 $VODKA" />
             <SaleInfo leftText="MAX CONTRIBUTION" rightText={poolState.maxsol + " SOL"} />
             <SaleInfo
-              leftText="PURCHASED TOKENS SUBJECT TO VESTING 
-SCHEDULE - 8 HOURS AFTER DEX LISTING, 100% 
+              leftText="PURCHASED TOKENS GONNA BE REWARDED 6H AFTER DEX LISTING, 100% 
 LIQUIDITY GONNA BE BURNED."
               rightText=""
             />
