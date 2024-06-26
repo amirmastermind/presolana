@@ -36,7 +36,7 @@ export default function Navigation() {
           <img className={classes.nav__logo} src={logo} alt="navigation logo" />
         </a>
         <div className={classes.nav__links__wrapper}>
-          <a href="https://x.com/JudgeToken?t=Ojg-ZNxG8IQxcjfuB4gdNw&s=08">
+          <a href="https://x.com/vodkamemecoin">
             <img src={xLogo} className={classes.nav__x__logo} alt="X link" />
           </a>
           {/* {connected == false? 
