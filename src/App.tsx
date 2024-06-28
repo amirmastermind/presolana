@@ -72,7 +72,7 @@ function RoundSection() {
           alt="game enviroment image"
         />
         <h2 className={classes.home__round__heading}>$VODKA</h2>
-        <h2 className={classes.home__round__heading__2}>PRE-SALE ROUND</h2>
+        <h2 className={classes.home__round__heading__2}>THE BEER KILLER</h2>
         <div className={classes.round__section__sale__wrapper}>
           <img
             className={classes.round__section__sale__image}
