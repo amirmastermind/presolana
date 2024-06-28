@@ -50,7 +50,7 @@ function HeroSection() {
       <div className={classes.home__hero__image__wrapper}>
         <img src={heroImage} alt="cowboy infront of sunset" />
       </div>
-      <h5 className={classes.home__hero__heading}>$BEER WHERE ARE YOU?</h5>
+      <h6 className={classes.home__hero__heading}>WHERE ARE YOU?</h6>
     </section>
   );
 }
